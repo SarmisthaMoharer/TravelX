@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import {BsPerson} from 'react-icons/bs'
 import {BiSearch} from 'react-icons/bi'
 import {AiOutlineClose} from 'react-icons/ai'

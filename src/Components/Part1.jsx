@@ -1,4 +1,4 @@
-import React from 'react'
+
 import beachVid from '../assets/beachVid.mp4'
 import {BiSearch} from 'react-icons/bi'
 
